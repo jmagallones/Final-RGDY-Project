@@ -13,6 +13,6 @@ education:
       institution: University College Dublin, Belfield
 superuser: true
 user_groups:
-  - Researcher
+  - Researchers
   - Design Team
 ---
