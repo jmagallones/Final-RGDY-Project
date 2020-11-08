@@ -5,16 +5,16 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Research on COVID-19 and Medical Imaging"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Government Resources"
   url = "#projects"
   weight = 30
 
@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Team Members"
+  url = "#people"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
