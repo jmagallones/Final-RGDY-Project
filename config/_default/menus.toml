@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "docs/"
+  url = "#hero"
   weight = 10
 
 [[main]]
   name = "Research on COVID-19 and Medical Imaging"
-  url = "#posts"
+  url = "docs/"
   weight = 20
 
 [[main]]
