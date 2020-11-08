@@ -1,5 +1,5 @@
 ---
-title: Computational Tomography: What is it and Why Use It?
+title: Computational Tomography - What is it and Why Use It?
 linktitle: CT Scan
 type: book
 # date: "2019-05-05T00:00:00+01:00"
