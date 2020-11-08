@@ -11,7 +11,7 @@ external_link: https://services.mywelfare.ie/en/topics/covid-19-payments/covid-1
 image:
   filename: pup.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: Photo by
     [wicklownews.net](https://wicklownews.net/2020/05/covid-19-pandemic-unemployment-payment-needs-to-be-paid-until-the-end-of-2020/)
 ---
