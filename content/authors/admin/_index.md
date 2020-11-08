@@ -20,7 +20,8 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researcher
+  - Researchers
   - Coders
+  - Design Team
 highlight_name: false
 ---
