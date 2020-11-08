@@ -14,6 +14,6 @@ education:
       year: ""
 superuser: true
 user_groups:
-  - Researcher
+  - Researchers
   - Design Team
 ---
