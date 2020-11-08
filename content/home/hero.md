@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic Template"
+title = "COVID-19 and Medical Imaging"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "coronavirus.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -31,28 +31,26 @@ hero_media = "hero-academic.png"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+  url = "docs/"
+  label = "Let's Get Started!"
+  # icon_pack = "fas"
+  # icon = "download"
   
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
+# [cta_alt]
+#  url = "https://wowchemy.com"
+#  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+# [cta_note]
+#  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+How can medical imaging be used to detect COVID-19?
 
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Life as we knew it has changed since COVID-19 interrupted our daily lives. As professionals scramble to look for solutions and vaccines to allow us to live with the virus, our job is as simple as ABC: to educate ourselves. Join us as we go through common questions about the virus and how to prevent its spread in order to protect the most vunerable in our society!
