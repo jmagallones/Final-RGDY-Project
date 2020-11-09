@@ -3,7 +3,7 @@ title: "The Unrecognized Threat of Secondary Bacterial Infections with COVID-19"
 authors:
 - Mylene Vaillancourt
 - Peter Jorth
-# date: "2013-07-01T00:00:00Z"
+date: "2020-11-08T00:00:00Z"
 doi: "10.1128/mbio.01806-20"
 
 # Schedule page publish date (NOT publication's date).
