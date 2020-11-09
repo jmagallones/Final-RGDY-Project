@@ -16,7 +16,7 @@ doi: "10.1128/mbio.01806-20"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Health Imaging: Insights in Imaging & Informatics*
+publication: In *Health Imaging - Insights in Imaging & Informatics*
 publication_short: In *Health Imaging*
 
 abstract: There is growing evidence that, in addition to attacking patients’ lungs, the coronavirus also targets the central nervous system, causing adverse neurological symptoms.
