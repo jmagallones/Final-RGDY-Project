@@ -32,13 +32,13 @@ links:
 - name: The Unrecognized Threat of Secondary Bacterial Infections with COVID-19
   url: https://mbio.asm.org/content/11/4/e01806-20
 url_pdf: ''
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
