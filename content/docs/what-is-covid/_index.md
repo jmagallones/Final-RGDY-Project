@@ -17,7 +17,15 @@ COVID-19 is a highly infectious new strain of the family of Coronaviruses, which
 
 ## How Does it Work??
 
-This virus is spread through **droplet transmission** - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomites) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected person is a common route of communitytransmission. Currently, [airborne transmission]({{< ref "/project/transmission-modes/index.md" >}}) of COVID-19 is also being investigated by the WHO. 
+This virus is spread through **droplet transmission** - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomites) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected person is a common route of communitytransmission. Currently, [airborne transmission]({{< ref "/project/transmission-modes/index.md" >}}) of COVID-19 is also being investigated by the WHO.
+
+## The Testing Process
+
+If you develop symptoms for COVID-19, you must self isolate and contact your GP to arrange for a COVID-19 test. You will receive an appointment for your test and either be tested at a test centre or in your home. With both options, a healthcare worker will insert a swab to the back of your nasopharyngeal cavity and throat to take a sample of your saliva and mucus. The sample will then be taken to a lab centre for analysis. Usually, it can take up to 3 days to receive your results.
+
+* If you test **negative**, then you do not have the virus and no longer have to self isolate. 
+* If you do test **positive** for the virus, you must continue to self isolate until you no longer have symptoms for 5 or more days. You will then need to get re-tested and have a second negative result to stop self isolation. 
+* If symptoms return or worsen, seek medical attention **_immediately_**.
 
 ## How to Reduce Risk of Getting COVID-19
 
@@ -53,12 +61,28 @@ Severe symptoms most likely occur in individuals who are over the age of 65 or i
 
 **_DISCLAIMER: PLEASE CONTACT YOUR GP IF ANY SEVERE SYMPTOMS SHOULD APPEAR_**
 
-## The Testing Process
+## Who Are the People More at Risk?
 
-If you develop symptoms for COVID-19, you must self isolate and contact your GP to arrange for a COVID-19 test. You will receive an appointment for your test and either be tested at a test centre or in your home. With both options, a healthcare worker will insert a swab to the back of your nasopharyngeal cavity and throat to take a sample of your saliva and mucus. The sample will then be taken to a lab centre for analysis. Usually, it can take up to 3 days to receive your results.
+The [HSE](https://www2.hse.ie/coronavirus/) have determined two levels of higher risk: high risk and very high risk. Each of these groups of people are given different advice depending on their circumstances as given by this [article](https://www2.hse.ie/conditions/coronavirus/people-at-higher-risk.html).
 
-* If you test **negative**, then you do not have the virus and no longer have to self isolate. 
-* If you do test **positive** for the virus, you must continue to self isolate until you no longer have symptoms for 5 or more days. You will then need to get re-tested and have a second negative result to stop self isolation. 
-* If symptoms return or worsen, seek medical attention **_immediately_**. 
+People **_very_** high risk of contracting severe symptoms of COVID-19 include:
 
-*incomplete: include "how underlying illnessess put you at higher risk"
+* The elderly - even if they are fit and well.
+* People who have recently undergone surgery.
+* Patients who have had/is taking any sort of therapy to counter cancer - including radiotheraphy, immunotherapy, and chemotherapy.
+* People with cancers of the blood at any stage.
+* People taking immunosuppression drugs as a post-operation maintenance or to counter auto-immunity.
+* People with cystic fibrosis.
+* People with severe respiratory conditions such as severe asthma, COPD, and pulmonary fibrosis.
+* People with serious heart conditions.
+
+People at high risk include:
+
+* People with learning disabilities.
+* People with high blood pressure (hypertension).
+* People who have diabetes.
+* People with chronic kidney disease or liver disease.
+* People with a motor neurological diseases.
+* Obese people.
+
+Those patients with these underlying illnesses can have mild to severe symptoms of COVID-19 which can develop secondary illnesses such as pneumonia, fatigue, [bacterial infections](){{< ref "/publication/secondary-infections/index.md">}}, or blood clots.
