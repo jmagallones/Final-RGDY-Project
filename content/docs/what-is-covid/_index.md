@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: What is COVID-19?
-date: "2020-11-08T00:00:00Z"
+# date: "2020-11-08T00:00:00Z"
 author: "admin"
 type: book  # Do not modify.
 ---
