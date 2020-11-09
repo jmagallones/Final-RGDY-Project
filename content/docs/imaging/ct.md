@@ -1,5 +1,5 @@
 ---
-title: Computational Tomography - What is it and Why Use It?
+title: Computational Tomography - What is it, Why Use It and How Do I Prepare for It?
 linktitle: CT Scan
 type: book
 # date: "2019-05-05T00:00:00+01:00"
@@ -25,3 +25,21 @@ Though, in theory, Covid-19 can be detected on a CT scan, it is currently diagno
 ## What are you even _looking for_?
 
 Pneumonia, including Covid pneumonia, increases density in areas of the lungs, which is what the chest CT is trying to detect. These are visible as areas of whiteness around the lungs as seen below.
+
+
+
+<!---
+diff authors above and below
+-->
+
+
+
+## What to Expect as a Patient Going into a CT Exam?
+
+In preparing for the CT exam all artefacts are removed. You may be asked to change into a hospital gown and rehearse breath holds. The scan will take no longer than 10 minutes. As a patient, you must remain still throughout the scan and may be asked to hold your breath at various intervals. The CT exam will produce an excellent 3D projection with good visualisation of the lung tissue and any potential damage done to it as a result of coronavirus.
+
+## Radiation Dose to the Patient During a CT Examination
+
+**_TD;LR - There's no need to be afraid_**
+
+Although the radiation dose for CT is classified as a high dose technique, it is relatively low in comparison to some everyday tasks and is equivalent to smoking 140 cigarettes, driving 6,000km in a car or flying 40,000km in a plane. 
