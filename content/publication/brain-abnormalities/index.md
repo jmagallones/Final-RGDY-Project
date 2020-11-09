@@ -2,7 +2,6 @@
 title: "COVID-19 brain abnormalities on MRI in patients with neurological symptoms"
 authors:
 - Matt O'Connor
-
 date: "2020-07-17T00:00:00Z"
 doi: "10.1128/mbio.01806-20"
 
