@@ -17,7 +17,7 @@ COVID-19 is a highly infectious new strain of the Coronaviruses, which are usual
 
 ## How Does it Work??
 
-This virus is spread through droplet transmission - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomite) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected is a common route of transmission. Currently, airborne transmission of COVID-19 is also being investigated. 
+This virus is spread through droplet transmission - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomites) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected is a common route of transmission. Currently, airborne transmission of COVID-19 is also being investigated. 
 
 ## How to Reduce Risk of Getting COVID-19
 
