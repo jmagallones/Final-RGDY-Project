@@ -5,7 +5,7 @@ summary: This is a recommendation by the HSE on how to protect yourself for the 
 draft: false
 featured: true
 tags:
-  - Infection
+  - Advice
 external_link: https://www2.hse.ie/conditions/coronavirus/cocooning/how-to.html
 # image:
 #   filename: covid-ball.jpg
