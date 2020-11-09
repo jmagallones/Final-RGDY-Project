@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 brain abnormalities on MRI in patients with neurological symptoms"
 authors:
-- Matt O'Connor
+- Matt O Connor
 date: "2020-07-17T00:00:00Z"
 doi: "10.1128/mbio.01806-20"
 
@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Link to Website
-  url: 'https://www.healthimaging.com/topics/advanced-visualization/covid-19-brain-abnormalities-mri'
+  url: https://www.healthimaging.com/topics/advanced-visualization/covid-19-brain-abnormalities-mri
 url_pdf: ''
 url_code: ''
 url_dataset: ''
