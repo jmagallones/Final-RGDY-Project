@@ -16,7 +16,7 @@ doi: "10.1128/mbio.01806-20"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nuvance Health: Danbury Hospital*
+publication: In *Nuvance Health - Danbury Hospital*
 publication_short: In *Danbury Hospital*
 
 abstract: At Nuvance Health, we’re seeing patients who are thankful because they recovered from COVID-19, but are now worried because they have lingering neurological symptoms. Nationwide, a small number of people who recovered from COVID-19 are reporting neurological concerns such as headache, dizziness, lingering loss of smell or taste, muscle weakness, nerve damage, and trouble thinking or concentrating — sometimes called “COVID fog” or “brain fog”.
