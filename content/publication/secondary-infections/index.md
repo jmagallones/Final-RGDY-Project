@@ -29,8 +29,8 @@ tags:
 featured: true
 
 links:
-- name: The Unrecognized Threat of Secondary Bacterial Infections with COVID-19
-  url: https://mbio.asm.org/content/11/4/e01806-20
+- name: 
+  url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
