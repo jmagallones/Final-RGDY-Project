@@ -1,6 +1,6 @@
 ---
 title: Jeanne Trixie Magallones
-role: Third Year Astrophysics Student - Code Compiler
+role: Third Year Astrophysics Student
 avatar_filename: avatar.png
 bio: I am currently a third year Astrophysics student at UCD and a member of
   RDGY10090 Group 34
