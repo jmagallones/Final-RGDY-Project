@@ -32,6 +32,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Treatment Recommendations"
      tag = "Treatment Recommendations"
+     
+   [[content.filter_button]]
+     name = "Infection"
+     tag = "Infection"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
