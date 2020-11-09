@@ -21,7 +21,7 @@ email: ""
 superuser: true
 user_groups:
   - Researchers
-  - Coders
+  - Code Compilers
   - Design Team
 highlight_name: false
 ---
