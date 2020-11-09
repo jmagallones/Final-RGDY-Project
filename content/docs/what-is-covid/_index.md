@@ -60,3 +60,5 @@ If you develop symptoms for COVID-19, you must self isolate and contact your GP 
 * If you test **negative**, then you do not have the virus and no longer have to self isolate. 
 * If you do test **positive** for the virus, you must continue to self isolate until you no longer have symptoms for 5 or more days. You will then need to get re-tested and have a second negative result to stop self isolation. 
 * If symptoms return or worsen, seek medical attention **_immediately_**. 
+
+*incomplete: include "how underlying illnessess put you at higher risk"
