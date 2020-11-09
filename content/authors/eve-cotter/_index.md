@@ -1,6 +1,6 @@
 ---
 title: Eve Cotter
-role: First Year Medicine Student - Researcher
+role: First Year Medicine Student
 avatar_filename: avatar.png
 bio: I am currently a third year Medicine student at UCD and a member of
   RDGY10090 Group 34.
