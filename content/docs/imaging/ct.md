@@ -8,7 +8,7 @@ author: "admin"
 weight: 2
 ---
 
-TD;LR: insert summary of CT here
+TD;LR: insert summary of CT here.
 
 ## What on **_EARTH_** is a CT Scan?
 
