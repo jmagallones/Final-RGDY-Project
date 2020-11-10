@@ -5,7 +5,7 @@ type: book
 # date: "2019-05-05T00:00:00+01:00"
 author: "sarah-mchale"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 4
 ---
 
 In some cases, COVID-19 may attack the central nervous system, causing neurological symptoms such as headaches, fatigue, muscle weakness, nerve damage, or disorientation. If these symptoms persist, it may be recommended that a patient goes for an MRI of the brain or other parts of the nervous system. 
