@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Project Educate: COVID-19 Edition"
+title = "Project Educate: COVID-19 Ed."
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -107,7 +107,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # Privacy (Added Manually by Admin)
 
 [privacy]
-  [privacy.disqus]
+  [privacy.disqus] # comment service
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = true
