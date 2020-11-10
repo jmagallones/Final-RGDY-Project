@@ -18,7 +18,7 @@ SARS-CoV-2 related pneumonia is shown to involve periphery and subpleural lung a
 
 ## What Do Ultrasound Scan Show and How Do They Work?
 
-{{< youtube wtv0UbpbnNs privacyEnhanced= true>}}
+{{< youtube wtv0UbpbnNs >}}
 
 References Used:
 * [Role of point-of-care ultrasound during the COVID-19 pandemic: our recommendations in the management of dialytic patients.]({{< ref "/publication/point-of-care-us/index.md" >}})
