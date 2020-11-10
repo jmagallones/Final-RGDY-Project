@@ -87,5 +87,4 @@ People at high risk include:
 
 Those patients with these underlying illnesses can have mild to severe symptoms of COVID-19 which can develop secondary illnesses such as pneumonia, [bacterial infections](){{< ref "/publication/secondary-infections/index.md">}}, or blood clots. In these cases, the patient must be closely monitored as these secondary conditions can develop into massive inflammation and multiple organ failure. Qualitative analysis can be done through regular/daily evaluations of the patient and through medical imaging.
 
-
-{{< youtube shorts/opahmeGa0HU >}}
+{{< youtube wtv0UbpbnNs >}}
