@@ -1,9 +1,9 @@
 ---
-title: "Radiological imaging in endocrine hypertension"
+title: "Radiological Imaging in Endocrine Hypertension"
 authors:
-- Chandan J. Das
-- Manash P. Baruah
-- Upasana M. Baruah
+- Chandan J Das
+- Manash P Baruah
+- Upasana M Baruah
 
 date: "2011-10-15T00:00:00Z"
 doi: "10.4103/2230-8210.86984"
