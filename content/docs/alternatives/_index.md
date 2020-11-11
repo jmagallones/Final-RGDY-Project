@@ -38,3 +38,15 @@ Or if you just want to slow down and pace yourself, why not listen to some podca
 <iframe src="https://open.spotify.com/embed-podcast/show/3zGr8BgdHMdhUeLhgEYX8R" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * [Science Rules! with Bill Nye](https://open.spotify.com/show/3zGr8BgdHMdhUeLhgEYX8R?si=rCWqFH4aTUetdQWdns7JjA)
+
+<iframe src="https://open.spotify.com/embed-podcast/show/5SSYyVWm0FaY8as96gE3EM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* [The Chernobyl Podcast](https://open.spotify.com/show/5SSYyVWm0FaY8as96gE3EM?si=BskdVO7wQfu-tUIOnFZoHw)
+
+<iframe src="https://open.spotify.com/embed-podcast/show/4NWwRg65KT5ezlAugn7NKl" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* [The Tommy and Hector Podcast with Laurita Blewitt](https://open.spotify.com/show/4NWwRg65KT5ezlAugn7NKl?si=eii5qgDQRxKpyA-ZEM17wA)
+
+<iframe src="https://open.spotify.com/embed-podcast/show/5Y0PpeOMpEgCzUxuhFeXGN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* [Dubland](https://open.spotify.com/show/5Y0PpeOMpEgCzUxuhFeXGN?si=NvYvOBZhQD-ai-6tSn2SVA)
