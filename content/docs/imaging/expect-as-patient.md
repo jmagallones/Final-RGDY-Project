@@ -47,7 +47,7 @@ _Mental health is just as important, now more than ever._
 
 ### How Will the Virus be Treated?
 
-Oxygen is the main treatment for this virus. The amount of care and observation you receive will be mainly determined by your oxygen levels. Medication is not the primary mode of fighting this virus but rather keeping you in good health with a strong immune system. There has been recommendations made by the National Institutes of Health ([NIH](https://www.nih.gov/)) of certain viral medications for antiviral therapy but these methods are saved for the more severe cases of coronavirus where the patient has been diagnosed with respiratory tract infections. Click [here]({{< ref "/project/remdesivir-nih/index.md" >}}) to read the article about Remdesivir and antiviral therapy, however, it may have very technical medical language.
+Oxygen is the main treatment for this virus. The amount of care and observation you receive will be mainly determined by your oxygen levels. Medication is not the primary mode of fighting this virus but rather keeping you in good health with a strong immune system. There has been recommendations made by the National Institutes of Health ([NIH](https://www.nih.gov/)) of certain viral medications for antiviral therapy but these methods are saved for the more severe cases of coronavirus where the patient has been diagnosed with respiratory tract infections. Click [here]({{< ref "/publication/remdesivir-nih/index.md" >}}) to read the article about Remdesivir and antiviral therapy, however, it may have very technical medical language.
 
 References Used:
 
