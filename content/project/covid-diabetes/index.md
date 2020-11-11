@@ -6,6 +6,6 @@ draft: false
 featured: true
 tags:
   - Research
-  - 
+  - Diabetes
 external_link: https://www2.hse.ie/conditions/coronavirus/diabetes-and-coronavirus.html
 ---
