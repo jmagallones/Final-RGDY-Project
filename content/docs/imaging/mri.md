@@ -17,9 +17,3 @@ Before an MRI scan, the patient will be required to answer a safety screening qu
 ## During the Scan
 
 During an MRI scan, the patient will lie on a table which moves into the scanner. The scanner can be very loud, but there is a call bell which can be pressed to get the radiographer’s attention if needed. Music may be played through headphones to calm the patient if they find the noise very disruptive. The scanner is open at each end and cool air can be blown through to make the process more comfortable. In total, the scan will take 30-50 mins.
-
-References Used:
-
-*
-*
-*
