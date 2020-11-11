@@ -1,5 +1,5 @@
 +++
-# A Government Aid section created with the Portfolio widget.
+# A section created with the Portfolio widget for outside links to websites.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
