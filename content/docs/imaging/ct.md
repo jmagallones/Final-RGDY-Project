@@ -8,8 +8,6 @@ author: "admin"
 weight: 2
 ---
 
-TD;LR: insert summary of CT here.
-
 ## What on **_EARTH_** is a CT Scan?
 
 {{< figure library="true" src="ct-scan.jpg" title="[CT Staff with Patient](https://www.amberusa.com/blog/the-ct-scanning-procedure/)" >}}
@@ -42,6 +40,6 @@ In preparing for the CT exam all artefacts are removed. You may be asked to chan
 
 ## Radiation Dose to the Patient During a CT Examination
 
-**_TD;LR - There's no need to be afraid_**
+**_There's no need to be afraid_**
 
 Although the radiation dose for CT is classified as a high dose technique, it is relatively low in comparison to some everyday tasks and is equivalent to smoking 140 cigarettes, driving 6,000km in a car or flying 40,000km in a plane. 
