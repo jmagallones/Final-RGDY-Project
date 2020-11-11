@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Government Aid"
+title = "Website Links"
 subtitle = ""
 
 [content]
@@ -28,18 +28,26 @@ subtitle = ""
    [[content.filter_button]]
      name = "Financial Aid"
      tag = "Financial Aid"
-  
-   [[content.filter_button]]
-     name = "Treatment Recommendations"
-     tag = "Treatment Recommendations"
      
    [[content.filter_button]]
-     name = "Infection"
-     tag = "Infection"
+     name = "Coronavirus"
+     tag = "Coronavirus"
      
    [[content.filter_button]]
-     name = "Advice"
-     tag = "Advice"
+     name = "Research"
+     tag = "Research"
+     
+   [[content.filter_button]]
+     name = "Cancer"
+     tag = "Cancer"
+     
+   [[content.filter_button]]
+     name = "Diabetes"
+     tag = "Diabetes"
+     
+   [[content.filter_button]]
+     name = "Neurology"
+     tag = "Neurology"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,7 +58,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
