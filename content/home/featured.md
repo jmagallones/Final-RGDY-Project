@@ -25,24 +25,18 @@ subtitle = ""
   link_to_archive = false
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "Infections"
-    category = ""
-    publication_type = ""
-    author = ""
+   [[content.filter button]]
+     name = "Infections"
+     tag = "Infections"
+     
+   [[content.filter button]]
+     name = "Imaging"
+     tag = "Imaging"
+     
+   [[content.filter button]]
+     name = "Treatments"
+     tag = "Treatments"
     
-   [content.filters]
-    tag = "Imaging"
-    category = ""
-    publication_type = ""
-    author = ""
-    
-   [content.filters]
-    tag = "Treatments"
-    category = ""
-    publication_type = ""
-    author = ""
-  
 [design]
   # Toggle between the various page layout types.
   #   1 = List
