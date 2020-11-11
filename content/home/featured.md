@@ -26,7 +26,19 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Infections"
+    category = ""
+    publication_type = ""
+    author = ""
+    
+   [content.filters]
+    tag = "Imaging"
+    category = ""
+    publication_type = ""
+    author = ""
+    
+   [content.filters]
+    tag = "Treatments"
     category = ""
     publication_type = ""
     author = ""
