@@ -6,5 +6,6 @@ draft: false
 featured: true
 tags:
   - Research
+  - Cancer
 external_link: https://lungevity.org/our-research
 ---
