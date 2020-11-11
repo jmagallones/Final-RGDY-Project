@@ -29,7 +29,7 @@ abstract: The coronavirus disease-2019 (COVID-19) pandemic is one of the major c
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Imaging Modalities
+- Imaging
 featured: true
 
 links:
