@@ -17,3 +17,10 @@ Coronavirus-infected pneumonia can arise as a complication of Covid due to a wea
 ## COVID-19 and Lung Cancer
 
 As a patient with lung cancer, there is no evidence to support the fact that you are more susceptible to contracting the coronavirus disease. However, if you were to become infected you are more likely to get complications from it, because of the underlying disease. These complications can include acute respiratory failure and pneumonia. Look at [guidelines]({{< ref "/project/protect-yourself/index.md" >}}) made by HSE on how to stay safe during Covid-19 to reduce risk of contracting the illness. 
+
+References Used:
+
+* [Cancer and COVID-19 (HSE)]({{< ref "/project/cancer-covid-hse/index.md" >}})
+* [Cancer Ireland]({{< ref "/project/cancer/index.md" >}})
+* [LUNGevity]({{< ref "/project/lung-cancer/index.md" >}})
+* [iRefer Guidelines](https://www.irefer.org.uk/)
