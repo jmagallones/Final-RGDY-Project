@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Medically Imaging COVID-19
-# summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: The different modalities that can be employed to scan for COVID-19
 weight: 2
 icon: book
 icon_pack: fas
