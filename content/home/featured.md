@@ -33,15 +33,15 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-   [[content.filter button]]
+   [[content.filter_button]]
      name = "Infections"
      tag = "Infections"
      
-   [[content.filter button]]
+   [[content.filter_button]]
      name = "Imaging"
      tag = "Imaging"
      
-   [[content.filter button]]
+   [[content.filter_button]]
      name = "Treatments"
      tag = "Treatments"
     
