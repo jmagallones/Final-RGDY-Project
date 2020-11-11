@@ -6,5 +6,6 @@ draft: false
 featured: true
 tags:
   - Research
+  - Neurology
 external_link: https://www.healthimaging.com/topics/advanced-visualization/covid-19-brain-abnormalities-mri
 ---
