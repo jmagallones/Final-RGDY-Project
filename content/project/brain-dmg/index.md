@@ -6,5 +6,6 @@ draft: false
 featured: true
 tags:
   - Research
+  - Neurology
 external_link: https://www.nature.com/articles/d41586-020-02599-5
 ---
