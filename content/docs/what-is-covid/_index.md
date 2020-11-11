@@ -15,7 +15,7 @@ type: book  # Do not modify.
 
 COVID-19 is a highly infectious new strain of the family of Coronaviruses, which are usually respiratory tract infections. One of the unique features of COVID-19 is how differently it impacts each individual. Worldwide numbers of COVID-19 infected patients are well into the millions and changing rapidly. As such, the World Health Organization declared COVID-19 a pandemic on March 11, 2020. 
 
-## How Does it Work??
+## How Does it Work?
 
 This virus is spread through **droplet transmission** - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomites) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected person is a common route of communitytransmission. Currently, [airborne transmission]({{< ref "/publication/transmission-modes/index.md" >}}) of COVID-19 is also being investigated by the WHO.
 
