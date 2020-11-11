@@ -48,6 +48,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "Neurology"
      tag = "Neurology"
+     
+   [[content.filter_button]]
+     name = "Imaging"
+     tag = "Imaging"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
