@@ -19,10 +19,10 @@ Here's a quick article written by Irish Times on ["How to Cope with Life Under L
 
 Anyways, while we're at it, why don't we try something new like:
 
-* [Gardening](https://www.irishtimes.com/life-and-style/homes-and-property/gardens/gardening-for-beginners-how-to-sow-and-grow-for-the-first-time-1.4211965)
-* [Painting](https://drawpaintacademy.com/painting-for-beginners/)
-* Cooking: for [beginners](https://www.purewow.com/food/easy-dinner-recipes-for-beginners) and for those looking for a [challenge](https://www.saveur.com/most-challenging-recipes/)
-* Learning a new instrument: of course [music theory](https://guitar.com/lessons/lessons-theory-introduction-to-scales/) is a little important but the best way to learn is [online](https://www.tropicalmba.com/learn-to-play-guitar/)
+* [Gardening](https://www.irishtimes.com/life-and-style/homes-and-property/gardens/gardening-for-beginners-how-to-sow-and-grow-for-the-first-time-1.4211965).
+* [Painting](https://drawpaintacademy.com/painting-for-beginners/).
+* Cooking: for [beginners](https://www.purewow.com/food/easy-dinner-recipes-for-beginners) and for those looking for a [challenge](https://www.saveur.com/most-challenging-recipes/).
+* Learning a new instrument: of course [music theory](https://guitar.com/lessons/lessons-theory-introduction-to-scales/) is a little important but the best way to learn is [online](https://www.tropicalmba.com/learn-to-play-guitar/).
 * Reading: either [online](https://www.fictionpress.com/) or with physical books, it's always nice to immerse yourself in another world even just for a few chapters.
 
 Or if you just want to slow down and pace yourself, why not listen to some podcasts? Our personal favourites are:
