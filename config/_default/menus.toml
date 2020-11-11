@@ -4,29 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-  url = "#hero"
+  name = "Research on COVID-19 and Medical Imaging"
+  url = "docs/"
   weight = 10
 
 [[main]]
-  name = "Research on COVID-19 and Medical Imaging"
-  url = "docs/"
-  weight = 20
-
-[[main]]
-  name = "Government Resources"
+  name = "Website Links"
   url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
+  weight = 20
+  
 [[main]]
   name = "Team Members"
   url = "#people"
-  weight = 60
+  weight = 30
+  
+[[main]]
+  name = "Research Papers"
+  url = "#featured"
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
