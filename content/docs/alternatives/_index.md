@@ -15,13 +15,15 @@ type: book  # Do not modify.
 Yes it's hard. Not just on you but for everyone affected by the lockdown set to try ease pressure off of the medical professionals in hospitals, nursing homes, and hospices.
 **_We're all in this together._**
 
-So while we're at it, why don't we try something new like:
+Here's a quick article written by Irish Times on ["How to Cope with Life Under Lockdown"](https://www.independent.ie/world-news/coronavirus/housebound-how-to-cope-with-life-under-lockdown-39041057.html).
 
-* Gardening
-* Painting
-* Cooking
-* Learning a new instrument
-* Reading
+Anyways, while we're at it, why don't we try something new like:
+
+* [Gardening](https://www.irishtimes.com/life-and-style/homes-and-property/gardens/gardening-for-beginners-how-to-sow-and-grow-for-the-first-time-1.4211965)
+* [Painting](https://drawpaintacademy.com/painting-for-beginners/)
+* Cooking: for [beginners](https://www.purewow.com/food/easy-dinner-recipes-for-beginners) and for those looking for a [challenge](https://www.saveur.com/most-challenging-recipes/)
+* Learning a new instrument: of course [music theory](https://guitar.com/lessons/lessons-theory-introduction-to-scales/) is a little important but the best way to learn is [online](https://www.tropicalmba.com/learn-to-play-guitar/)
+* Reading: either [online](https://www.fictionpress.com/) or with physical books, it's always nice to immerse yourself in another world even just for a few chapters.
 
 Or if you just want to slow down and pace yourself, why not listen to some podcasts? Our personal favourites are:
 
@@ -33,4 +35,6 @@ Or if you just want to slow down and pace yourself, why not listen to some podca
 
 * [The Blindboy Podcast](https://open.spotify.com/show/7HinkS0WZqDuMXYh02EUY1?si=CAYM5aXdTy2-qB0HYbm4kw)
 
-*this section is to be completed.
+<iframe src="https://open.spotify.com/embed-podcast/show/3zGr8BgdHMdhUeLhgEYX8R" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* [Science Rules! with Bill Nye](https://open.spotify.com/show/3zGr8BgdHMdhUeLhgEYX8R?si=rCWqFH4aTUetdQWdns7JjA)
