@@ -27,10 +27,6 @@ Anyways, while we're at it, why don't we try something new like:
 
 Or if you just want to slow down and pace yourself, why not listen to some podcasts? Our personal favourites are:
 
-<iframe src="https://open.spotify.com/embed/playlist/2qtmaeg0wfJWvBQ7waNlyW" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-* [Stuff You Should Know on Spotify](https://open.spotify.com/playlist/2qtmaeg0wfJWvBQ7waNlyW) 
-
 <iframe src="https://open.spotify.com/embed-podcast/show/7HinkS0WZqDuMXYh02EUY1" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * [The Blindboy Podcast](https://open.spotify.com/show/7HinkS0WZqDuMXYh02EUY1?si=CAYM5aXdTy2-qB0HYbm4kw)
@@ -50,3 +46,7 @@ Or if you just want to slow down and pace yourself, why not listen to some podca
 <iframe src="https://open.spotify.com/embed-podcast/show/5Y0PpeOMpEgCzUxuhFeXGN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 * [Dubland](https://open.spotify.com/show/5Y0PpeOMpEgCzUxuhFeXGN?si=NvYvOBZhQD-ai-6tSn2SVA)
+
+<iframe src="https://open.spotify.com/embed-podcast/show/63Rqfl7KNPmM5M7Hvj4BYh" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+* [Stuff You Should Know on Spotify](https://open.spotify.com/show/63Rqfl7KNPmM5M7Hvj4BYh?si=mScFSY1kS5-cm6kRTGxcYA) 
