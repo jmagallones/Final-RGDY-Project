@@ -26,7 +26,7 @@ abstract: Covid-19 infection predominantly affects the respiratory tract. While 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Imaging Modalities
+- Imaging
 featured: false
 
 links:
