@@ -6,5 +6,6 @@ draft: false
 featured: true
 tags:
   - Research
+  - Diabetes
 external_link: https://www.medicalnewstoday.com/articles/covid-19-and-diabetes
 ---
