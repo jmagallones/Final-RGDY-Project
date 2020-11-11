@@ -6,5 +6,6 @@ draft: false
 featured: true
 tags:
   - Research
+  - Neurology
 external_link: https://www.danburyhospital.org/newsroom/articles/neurological-effects-of-covid19
 ---
