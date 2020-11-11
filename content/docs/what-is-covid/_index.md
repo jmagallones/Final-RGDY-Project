@@ -89,7 +89,7 @@ Those patients with these underlying illnesses can have mild to severe symptoms 
 
 References Used:
 
-* [Coronavirus (compiled by WHO)]({{< ref "/publication/coronavirus/index.md" >}})
-* [COVID-19 Basics (Harvard)]({{< ref "/publication/covid-basics/index.md" >}})
-* [COVID-19 (coronavirus)]({{< ref "/publication/hse-corona/index.md" >}})
+* [Coronavirus (compiled by WHO)]({{< ref "/project/coronavirus/index.md" >}})
+* [COVID-19 Basics (Harvard)]({{< ref "/project/covid-basics/index.md" >}})
+* [COVID-19 (coronavirus)]({{< ref "/project/hse-corona/index.md" >}})
 * [Modes of transmission of virus causing COVID-19 - implications for IPC precaution recommendations]({{< ref "/publication/transmission-modes/index.md" >}})
