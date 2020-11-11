@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Daily New Confirmed COVID-19 Cases"
-subtitle = "on the island of Ireland"
+# title = "Daily New Confirmed COVID-19 Cases"
+# subtitle = "on the island of Ireland"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,8 +50,6 @@ subtitle = "on the island of Ireland"
  css_class = ""
 +++
 
-<iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&country=~IRL&region=World&casesMetric=true&interval=daily&hideControls=true&smoothing=0&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-
 <iframe src="https://ourworldindata.org/coronavirus-data-explorer?tab=map&zoomToSelection=true&time=2020-11-11&country=~IRL&region=World&casesMetric=true&interval=daily&hideControls=true&smoothing=0&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-<iframe src="https://ourworldindata.org/coronavirus-data-explorer?tab=table&zoomToSelection=true&country=~IRL&region=World&casesMetric=true&interval=daily&hideControls=true&smoothing=0&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&country=~IRL&region=World&casesMetric=true&interval=daily&hideControls=true&smoothing=0&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
