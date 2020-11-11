@@ -15,6 +15,6 @@ The most common neurological effects of COVID-19 are stroke and encephalitis, wh
 
 References Used:
 
-* [COVID-19 brain abnormalities on MRI in patients with neurological symptoms]({{< ref "/publication/brain-abnormalities/index.md" >}})
+* [COVID-19 brain abnormalities on MRI in patients with neurological symptoms]({{< ref "/project/brain-abnormalities/index.md" >}})
 * [How COVID-19 can damage the brain]({{< ref "/publication/brain-dmg/index.md" >}})
 * [What you need to know about neurological symptoms after COVID-19]({{< ref "/publication/neuro-symptoms/index.md" >}})
