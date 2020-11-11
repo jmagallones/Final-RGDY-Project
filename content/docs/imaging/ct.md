@@ -16,15 +16,17 @@ A CT scan is a medical imaging technique that uses many different X-Ray images t
 
 ## How does Covid-19 present on a CT Scan?
 
-We use CT scans in order to detect abnormalities in the lungs. The scans can detect hazy, patchy, white spots in the lungs - which are an indicator of Covid-19. The CT scan can create a 3D image of the lungs. In severe cases of Covid-19, as the pneumonia progresses, air sacs can become filled with fluid leaking from the blood vessels in the lungs. This is what we are looking for on a CT scan which can detect the presence as well as the severity of Covid-19.  
+We use CT scans in order to detect abnormalities in the lungs. The scans can detect hazy, patchy, white spots in the lungs - which are an indicator of COVID-19. The CT scan can create a 3D image of the lungs. In severe cases of COVID-19, as the pneumonia progresses, air sacs can become filled with fluid leaking from the blood vessels in the lungs. This is what we are looking for on a CT scan which can detect the presence as well as the severity of COVID-19.  
 
 ## Why do we use CT scans in relation to Covid-19?
 
-Though, in theory, Covid-19 can be detected on a CT scan, it is currently diagnosed through a swab test – imaging is not recommended for patients with suspected Covid-19. However, CT imaging plays an important role in the disease for hospitalised patients who have further complications. In Covid-19 patients, CT imaging is used in extreme cases, most commonly to diagnose secondary infections such as pneumonia.
+Though, in theory, COVID-19 can be detected on a CT scan, it is currently diagnosed through a swab test – imaging is not recommended for patients with suspected COVID-19. However, CT imaging plays an important role in the disease for hospitalised patients who have further complications. In COVID-19 patients, CT imaging is used in extreme cases, most commonly to diagnose secondary infections such as pneumonia.
 
 ## What are you even _looking for_?
 
-Pneumonia, including Covid pneumonia, increases density in areas of the lungs, which is what the chest CT is trying to detect. These are visible as areas of whiteness around the lungs as seen below.
+Pneumonia, including COVID-19 pneumonia, increases density in areas of the lungs, which is what the chest CT is trying to detect. These are visible as areas of whiteness around the lungs as seen below.
+
+{{< figure library="true" src="pneumonia-lungs.jpg" title="CT Scans of Lungs with Pneumonia" >}}
 
 
 
@@ -43,3 +45,12 @@ In preparing for the CT exam all artefacts are removed. You may be asked to chan
 **_There's no need to be afraid_**
 
 Although the radiation dose for CT is classified as a high dose technique, it is relatively low in comparison to some everyday tasks and is equivalent to smoking 140 cigarettes, driving 6,000km in a car or flying 40,000km in a plane. 
+
+References Used:
+
+* [ACR Recommendations for the use of Chest Radiography and CT for Suspected COVID-19 Infection]({{< ref "/project/acr-recommends/index.md" >}})
+* [Use of chest imaging in COVID-19 (WHO)]({{< ref "/project/chest-imaging/index.md" >}})
+* [Covid-19 testing issues could sink plans to re-open the country. Might CT scans help?]({{< ref "/project/stat-ct/index.md" >}})
+* [Radiopaedia COVID-19]({{< ref "/project/radiopaedia/index.md" >}})
+* [CT (Computed Tomography) Scan]({{< ref "/project/healthline-ct/index.md" >}})
+* [Chest CT shows COVID-19 damage to the lungs]({{< ref "/project/life-sci-medical/index.md" >}})
