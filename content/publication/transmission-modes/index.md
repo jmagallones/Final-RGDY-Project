@@ -16,7 +16,7 @@ date: "2020-03-29T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: By *WHO*
+publication: By *World Health Organisation*
 publication_short: By *WHO*
 
 abstract: Scientific brief on the study done by WHO on the modes of transmission of COVID-19.
