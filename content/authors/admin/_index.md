@@ -10,7 +10,7 @@ social:
     icon_pack: fab
     link: https://github.com/jmagallones
 organizations:
-  - name: University College Dublin, Belfie
+  - name: University College Dublin, Belfield
     url: https://www.ucd.ie/
 education:
   courses:
