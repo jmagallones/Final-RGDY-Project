@@ -85,4 +85,11 @@ People at high risk include:
 * People with a motor neurological diseases.
 * Obese people.
 
-Those patients with these underlying illnesses can have mild to severe symptoms of COVID-19 which can develop secondary illnesses such as pneumonia, [bacterial infections](){{< ref "/publication/secondary-infections/index.md">}}, or blood clots. In these cases, the patient must be closely monitored as these secondary conditions can develop into massive inflammation and multiple organ failure. Qualitative analysis can be done through regular/daily evaluations of the patient and through medical imaging.
+Those patients with these underlying illnesses can have mild to severe symptoms of COVID-19 which can develop secondary illnesses such as pneumonia, [bacterial infections]({{< ref "/publication/secondary-infections/index.md" >}}), or blood clots. In these cases, the patient must be closely monitored as these secondary conditions can develop into massive inflammation and multiple organ failure. Qualitative analysis can be done through regular/daily evaluations of the patient and through medical imaging.
+
+References Used:
+
+* [Coronavirus (compiled by WHO)]({{< ref "/publication/coronavirus/index.md" >}})
+* [COVID-19 Basics (Harvard)]({{< ref "/publication/covid-basics/index.md" >}})
+* [COVID-19 (coronavirus)]({{< ref "/publication/hse-corona/index.md" >}})
+* [Modes of transmission of virus causing COVID-19 - implications for IPC precaution recommendations]({{< ref "/publication/transmission-modes/index.md" >}})
