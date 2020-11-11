@@ -19,7 +19,7 @@ publication_types: ["4"]
 publication: By *Harvard Health Publishing*
 publication_short: By *Harvard Health Publishing*
 
-abstract: Essential information compiled by Harvard Medical School on COVID-19
+abstract: Essential information compiled by Harvard Medical School on COVID-19.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
