@@ -12,7 +12,7 @@ education:
     - course: BSc DN410 Radiography (Major)
       institution: University College Dublin, Belfield
       year: ""
-superuser: true
+superuser: false
 user_groups:
   - Researchers
   - Design Team
