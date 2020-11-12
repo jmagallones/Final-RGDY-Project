@@ -4,6 +4,9 @@ title: Radiopaedia COVID-19
 summary: COVID-19 (coronavirus disease 2019) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a strain of coronavirus. The first cases were seen in Wuhan, China, in December 2019 before spreading globally, with more than 1.2 million deaths and 47 million cases now confirmed. The current outbreak was officially recognised as a pandemic by the World Health Organisation (WHO) on 11 March 2020.
 draft: false
 featured: true
+authors:
+  - Sarah McHale
+  - Eve Cotter
 tags:
   - Research
   - Coronavirus
