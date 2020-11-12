@@ -4,6 +4,8 @@ title: American Diabetes Association
 summary: A website dedicated to informing people about diabetes written by the American Diabetes Association.
 draft: false
 featured: true
+authors:
+  - Anna Fennell
 tags:
   - Research
   - Diabetes
