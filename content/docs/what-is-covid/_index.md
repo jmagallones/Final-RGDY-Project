@@ -75,7 +75,7 @@ People **_very_** high risk of contracting severe symptoms of COVID-19 include:
 * People who have recently undergone surgery.
 * Patients who have had/is taking any sort of therapy to counter cancer - including radiotherapy, immunotherapy, and chemotherapy.
 * People with cancers of the blood at any stage.
-* People taking immunosuppression drugs as a post-operation maintenance or to counter auto-immunity.
+* People taking immunosuppression drugs as a post-operation maintenance or to counter autoimmunity.
 * People with cystic fibrosis.
 * People with severe respiratory conditions such as severe asthma, COPD, and pulmonary fibrosis.
 * People with serious heart conditions.
