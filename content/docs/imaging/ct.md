@@ -28,7 +28,7 @@ Though, in theory, COVID-19 can be detected on a CT scan, it is currently diagno
 
 Pneumonia, including COVID-19 pneumonia, increases density in areas of the lungs, which is what the chest CT is trying to detect. These are visible as areas of whiteness around the lungs as seen below.
 
-{{< figure library="true" src="pneumonia-lungs.jpg" title="[CT Scans of Lungs with Pneumonia](https://www.news-medical.net/news/20200315/Chest-CT-shows-COVID-19-damage-to-the-lungs.aspx)" >}}
+{{< figure library="true" src="pneumonia-lungs.jpg" title="[CT Scans of Lungs with Pneumonia](https://www.news-medical.net/news/20200315/Chest-CT-shows-COVID-19-damage-to-the-lungs.aspx)<br>(Image taken from News Medical Life Sciences Website, Published 2020/03/15, Accessed 2020/11/08)" >}}
 
 
 
