@@ -15,7 +15,7 @@ So the doctor has recommended you for a scan, what now? We'll go through the pro
 
 ## Do I Have to Change My Clothes?
 
-Before undergoing the examination you, the patient, should remove all artefacts such as jewellery, bras, and belts. You will be given a hospital gown and asked to change into it. 
+Before undergoing the examination, you, the patient, should remove all artefacts such as jewellery, bras, and belts. You will be given a hospital gown and asked to change into it. 
 
 ## Do I Have to Sign Any Forms?
 
@@ -29,7 +29,7 @@ A non-contrast, single phase, low radiation dose chest CT is usually what is use
 
 The radiographer will position the patient and they must stay in that position unless told to move.  The table that the patient is lying on will move through the gantry (technical term for the big doughnut) to the x-ray tube and detector. The x-ray tube rotates around the patient and the detector gathers the requires information and transports it to the computer which will form the images. The examination will be completed when all the necessary images are got. The scans will then be analysed and reported by the radiologist and the results will then be sent to your doctor.
 
-## How Long Will it Take?
+## How Long Will It Take?
 
 It is a quick procedure that lasts about 10 minutes. The patient should practise with the radiographer holding their breath for short periods of time before they have to do this during the examination.
 
@@ -39,7 +39,7 @@ For treatment of COVID-19, some patients stay in ICU for about 2 weeks and other
 
 During the hospital stay you will have many routine observations by nursing staff and healthcare assistants. Your blood pressure, heart rate, temperature and oxygen levels will be checked, how frequently this occurs depends on how serious your condition is. Blood tests will also be performed to help monitor the condition.
 
-The staff will be wearing personal equipment such as gloves, a mask and an apron to help stop the spread of infection. They will help you with self care, cleaning and eating if you need assistance and your meals will be provided. 
+The staff will be wearing personal equipment such as gloves, a mask and an apron to help stop the spread of infection. They will help you with self-care, cleaning and eating if you need assistance and your meals will be provided. 
 
 As part of routine ward rounds, doctors will visit daily. They will ask you simple questions and will examine you further if they need to and just check up on you and how you are holding up. 
 
