@@ -4,6 +4,8 @@ title: Coronavirus (WHO)
 summary: Studies and information collected by WHO and compiled for the general public.
 draft: false
 featured: true
+authors:
+  - Nayab Gohar
 tags:
   - Research
   - Coronavirus
