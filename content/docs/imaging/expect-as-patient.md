@@ -53,5 +53,5 @@ Oxygen is the main treatment for this virus. The amount of care and observation 
 
 References Used:
 
-* [Computed Tomography (CT) Scan of the Chest](https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/ct-scan-of-the-chest)
-* [What to expect if someone you know is admitted to hospital with COVID-19](https://www.royalfree.nhs.uk/services/services-a-z/covid-19-coronavirus-information-for-the-public/what-to-expect-if-someone-you-know-is-admitted-to-hospital-with-covid-19/)
+* [Computed Tomography (CT) Scan of the Chest]({{< ref "/project/computed-tomography-ct-scan-of-the-chest/index.md">}})
+* [What to expect if someone you know is admitted to hospital with COVID-19]({{< ref "/project/what-to-expect-if-someone-you-know-is-admitted-to-hospital-with-covid-19/index.md" >}})
