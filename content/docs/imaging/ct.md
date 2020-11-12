@@ -12,7 +12,7 @@ weight: 2
 
 ## What on **_EARTH_** is a CT Scan?
 
-{{< figure library="true" src="ct-scan.jpg" title="[CT Staff with Patient](https://www.amberusa.com/blog/the-ct-scanning-procedure/)(Image taken from Amber Diagnostics Website, Published 2013/02/04, Accessed 2020/11/08)" >}}
+{{< figure library="true" src="ct-scan.jpg" title="[CT Staff with Patient](https://www.amberusa.com/blog/the-ct-scanning-procedure/)<br>(Image taken from Amber Diagnostics Website, Published 2013/02/04, Accessed 2020/11/08)" >}}
 
 A CT scan is a medical imaging technique that uses many different X-Ray images to create one image of the body. During a CT scan, you will lie on a bed that moves through an arc, called a gantry. As you move through the gantry, the scanner will emit a series of narrow beams. This is quite different from an X-Ray, which only sends one radiation beam. We do this so that we can obtain a much clearer image of the lungs. An image can then be projected onto the computer screen for examination. This is a quick and painless procedure which will be over in a matter of minutes. 
 
