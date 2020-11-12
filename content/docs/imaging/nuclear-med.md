@@ -8,7 +8,7 @@ author: "mayesha-choudhury"
 weight: 5
 ---
 
-Nuclear medicine can also be used in evaluating the causes of endocrine hypertension when MRI and CT can not detect a mass in the glands of patients with high suspicion of the condition.
+Nuclear medicine can also be used in evaluating the causes of endocrine hypertension when MRI and CT cannot detect a mass in the glands of patients with high suspicion of the condition.
 
 ## Do I Have to Take Any Medication?
 
