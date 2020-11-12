@@ -10,7 +10,7 @@ author:
 weight: 4
 ---
 
-MRI is an imaging modality which uses extremely strong magnets and radio waves to generate images of parts of the body which can’t be seen as well with CT, X-ray or ultrasound. It does not involve ionising radiation. 
+MRI is an imaging modality which uses extremely strong magnets and radio waves to generate images of parts of the body which can’t be seen as well with CT, x-ray, or ultrasound. It does not involve ionising radiation. 
 
 ## Before the Scan
 
