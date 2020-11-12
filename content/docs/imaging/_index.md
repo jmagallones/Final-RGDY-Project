@@ -4,6 +4,7 @@ linktitle: Medically Imaging COVID-19
 summary: The different modalities that can be employed to scan for COVID-19
 weight: 2
 icon: book
+author: "admin"
 icon_pack: fas
 
 # Page metadata.
