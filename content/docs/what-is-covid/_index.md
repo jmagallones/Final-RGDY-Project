@@ -19,14 +19,14 @@ COVID-19 is a highly infectious new strain of the family of Coronaviruses, which
 
 ## How Does it Work?
 
-This virus is spread through **droplet transmission** - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomites) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected person is a common route of communitytransmission. Currently, [airborne transmission]({{< ref "/publication/transmission-modes/index.md" >}}) of COVID-19 is also being investigated by the WHO.
+This virus is spread through **droplet transmission** - in other words through the respiratory droplets from an infected person’s cough or sneeze. These droplets can also be transmitted through [fomites](https://medical-dictionary.thefreedictionary.com/fomites) in the surrounding area; therefore, being in close contact, less than 2 m, of an infected person is a common route of community transmission. Currently, [airborne transmission]({{< ref "/publication/transmission-modes/index.md" >}}) of COVID-19 is also being investigated by the WHO.
 
 ## The Testing Process
 
-If you develop symptoms for COVID-19, you must self isolate and contact your GP to arrange for a COVID-19 test. You will receive an appointment for your test and either be tested at a test centre or in your home. With both options, a healthcare worker will insert a swab to the back of your nasopharyngeal cavity and throat to take a sample of your saliva and mucus. The sample will then be taken to a lab centre for analysis. Usually, it can take up to 3 days to receive your results.
+If you develop symptoms for COVID-19, you must self-isolate and contact your GP to arrange for a COVID-19 test. You will receive an appointment for your test and either be tested at a test centre or in your home. With both options, a healthcare worker will insert a swab to the back of your nasopharyngeal cavity and throat to take a sample of your saliva and mucus. The sample will then be taken to a lab centre for analysis. Usually, it can take up to 3 days to receive your results.
 
-* If you test **negative**, then you do not have the virus and no longer have to self isolate. 
-* If you do test **positive** for the virus, you must continue to self isolate until you no longer have symptoms for 5 or more days. You will then need to get re-tested and have a second negative result to stop self isolation. 
+* If you test **negative**, then you do not have the virus and no longer have to self-isolate. 
+* If you do test **positive** for the virus, you must continue to self-isolate until you no longer have symptoms for 5 or more days. You will then need to get re-tested and have a second negative result to stop self-isolation. 
 * If symptoms return or worsen, seek medical attention **_immediately_**.
 
 ## How to Reduce Risk of Getting COVID-19
@@ -71,7 +71,7 @@ People **_very_** high risk of contracting severe symptoms of COVID-19 include:
 
 * The elderly - even if they are fit and well.
 * People who have recently undergone surgery.
-* Patients who have had/is taking any sort of therapy to counter cancer - including radiotheraphy, immunotherapy, and chemotherapy.
+* Patients who have had/is taking any sort of therapy to counter cancer - including radiotherapy, immunotherapy, and chemotherapy.
 * People with cancers of the blood at any stage.
 * People taking immunosuppression drugs as a post-operation maintenance or to counter auto-immunity.
 * People with cystic fibrosis.
