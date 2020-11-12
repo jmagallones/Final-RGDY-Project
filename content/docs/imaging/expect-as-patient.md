@@ -9,7 +9,7 @@ author: "olivia-o-neill"
 weight: 1
 ---
 
-So the doctor has recommended you for a scan, what now? We'll go through the process of what happens _before_ you meet the ladies and gentlemen at the radiography department for the scan.
+So the doctor has recommended you for a scan, what now? We will go through the process of what happens _before_ you meet the ladies and gentlemen at the radiography department for the scan.
 
 {{< youtube KHuy4_Hlxxk >}}
 
