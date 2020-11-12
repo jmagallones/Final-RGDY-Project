@@ -5,7 +5,7 @@ summary: Magnetic resonance imaging (MRI) is a type of scan that uses strong mag
 draft: false
 featured: true
 author:
-  - "admin"
+  - Sarah McHale
 tags:
   - Research
   - Imaging
