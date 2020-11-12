@@ -25,7 +25,7 @@ This virus is spread through **droplet transmission** - in other words through t
 
 ## The Testing Process
 
-If you develop symptoms for COVID-19, you must self-isolate and contact your GP to arrange for a COVID-19 test. You will receive an appointment for your test and either be tested at a test centre or in your home. With both options, a healthcare worker will insert a swab to the back of your nasopharyngeal cavity and throat to take a sample of your saliva and mucus. The sample will then be taken to a lab centre for analysis. Usually, it can take up to 3 days to receive your results.
+If you develop symptoms for COVID-19, you must self-isolate and contact your GP to arrange for a COVID-19 test. You will receive an appointment for your test, and either be tested at a test centre or in your home. With both options, a healthcare worker will insert a swab to the back of your nasopharyngeal cavity and throat to take a sample of your saliva and mucus. The sample will then be taken to a lab centre for analysis. Usually, it can take up to 3 days to receive your results.
 
 * If you test **negative**, then you do not have the virus and no longer have to self-isolate. 
 * If you do test **positive** for the virus, you must continue to self-isolate until you no longer have symptoms for 5 or more days. You will then need to get re-tested and have a second negative result to stop self-isolation. 
@@ -86,7 +86,7 @@ People at high risk include:
 * People with high blood pressure (hypertension).
 * People who have diabetes.
 * People with chronic kidney disease or liver disease.
-* People with a motor neurological diseases.
+* People with a motor neurological diseases, Parkinson's for example.
 * Obese people.
 
 Those patients with these underlying illnesses can have mild to severe symptoms of COVID-19 which can develop secondary illnesses such as pneumonia, [bacterial infections]({{< ref "/publication/secondary-infections/index.md" >}}), or blood clots. In these cases, the patient must be closely monitored as these secondary conditions can develop into massive inflammation and multiple organ failure. Qualitative analysis can be done through regular/daily evaluations of the patient and through medical imaging.
