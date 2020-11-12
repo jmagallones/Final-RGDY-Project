@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-Yes it's hard. Not just on you but for everyone affected by the lockdown set to try ease pressure off of the medical professionals in hospitals, nursing homes, and hospices.
+Yes, it's hard. Not just on you but for everyone affected by the lockdown set to try ease pressure off of the medical professionals in hospitals, nursing homes, and hospices.
 **_We're all in this together._**
 
 Here's a quick article written by Irish Times on ["How to Cope with Life Under Lockdown"](https://www.independent.ie/world-news/coronavirus/housebound-how-to-cope-with-life-under-lockdown-39041057.html).
