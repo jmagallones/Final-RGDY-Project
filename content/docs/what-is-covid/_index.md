@@ -91,6 +91,18 @@ People at high risk include:
 
 Those patients with these underlying illnesses can have mild to severe symptoms of COVID-19 which can develop secondary illnesses such as pneumonia, [bacterial infections]({{< ref "/publication/secondary-infections/index.md" >}}), or blood clots. In these cases, the patient must be closely monitored as these secondary conditions can develop into massive inflammation and multiple organ failure. Qualitative analysis can be done through regular/daily evaluations of the patient and through medical imaging.
 
+## What are the Side Effects of COVID-19?
+
+Some of the most common severe side effects of COVID-19, also referred to as secondary diseases, are:
+
+* Pneumonia.
+* Lung scarring.
+* Stoke
+* Encephalitis.
+* Peripheral nerve damage.
+* Brain haemorrhage.
+* Memory loss.
+
 References Used:
 
 * [Coronavirus (compiled by WHO)]({{< ref "/project/coronavirus/index.md" >}})
