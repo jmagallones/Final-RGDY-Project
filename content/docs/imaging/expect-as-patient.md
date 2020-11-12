@@ -13,17 +13,15 @@ So the doctor has recommended you for a scan, what now? We'll go through the pro
 
 {{< youtube KHuy4_Hlxxk >}}
 
-## What to Expect as a Patient
-
-### Do I Have to Change My Clothes?
+## Do I Have to Change My Clothes?
 
 Before undergoing the examination you, the patient, should remove all artefacts such as jewellery, bras, and belts. You will be given a hospital gown and asked to change into it. 
 
-### Do I Have to Sign Any Forms?
+## Do I Have to Sign Any Forms?
 
 You will be asked several safety questions which you are expected the answer honestly. For example, "do you have any metal objects like an artificial hip replacement?". For female patients, you may be asked questions to determine if you are pregnant; this is because the staff in the CT department don't want to expose the foetus to the ionising radiation coming from the scan. You may be asked about other CT and other x-ray procedures you have had in the past to determine if it is safe to expose the body to more radiation. Don’t worry, the examination would **not** be recommended unless the benefits of having it done are greater than the risks of not having it done.
 
-### How will the Procedure Take Place?
+## How will the Procedure Take Place?
 
 The exam will take place in a clean room with a machine that look similar to a doughnut in it. You will be told in simple terms what is going to be done and will be informed of the benefits of having it done and the consequences of not having it done as well as the risks patients may attract themselves due to their behaviour whilst undergoing the procedure. 
 
@@ -31,11 +29,11 @@ A non-contrast, single phase, low radiation dose chest CT is usually what is use
 
 The radiographer will position the patient and they must stay in that position unless told to move.  The table that the patient is lying on will move through the gantry (technical term for the big doughnut) to the x-ray tube and detector. The x-ray tube rotates around the patient and the detector gathers the requires information and transports it to the computer which will form the images. The examination will be completed when all the necessary images are got. The scans will then be analysed and reported by the radiologist and the results will then be sent to your doctor.
 
-### How Long Will it Take?
+## How Long Will it Take?
 
 It is a quick procedure that lasts about 10 minutes. The patient should practise with the radiographer holding their breath for short periods of time before they have to do this during the examination.
 
-### What Happens to Patients Who Get Acute Symptoms?
+## What Happens to Patients Who Get Acute Symptoms?
 
 For treatment of COVID-19, some patients stay in ICU for about 2 weeks and others with milder cases stay for 3-4 days. Some patients have even longer stays and the recovery period can be extremely long. 
 
@@ -47,7 +45,7 @@ As part of routine ward rounds, doctors will visit daily. They will ask you simp
 
 _Mental health is just as important, now more than ever._
 
-### How Will the Virus be Treated?
+## How Will the Virus be Treated?
 
 Oxygen is the main treatment for this virus. The amount of care and observation you receive will be mainly determined by your oxygen levels. Medication is not the primary mode of fighting this virus but rather keeping you in good health with a strong immune system. There has been recommendations made by the National Institutes of Health ([NIH](https://www.nih.gov/)) of certain viral medications for antiviral therapy but these methods are saved for the more severe cases of coronavirus where the patient has been diagnosed with respiratory tract infections. Click [here]({{< ref "/publication/remdesivir-nih/index.md" >}}) to read the article about Remdesivir and antiviral therapy, however, it may have very technical medical language.
 
