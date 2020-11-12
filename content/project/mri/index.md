@@ -4,6 +4,7 @@ title: MRI Scan - An Overview
 summary: Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body.
 draft: false
 featured: true
+author: Sarah McHale 
 tags:
   - Research
   - Imaging
