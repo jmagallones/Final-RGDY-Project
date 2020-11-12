@@ -4,6 +4,8 @@ title: COVID-19 (coronavirus) by HSE
 summary: A government sourced compilation of information about COVID-19.
 draft: false
 featured: true
+authors:
+  - Nayab Gohar
 tags:
   - Research
   - Coronavirus
