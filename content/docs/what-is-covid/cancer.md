@@ -10,9 +10,9 @@ weight: 2
 
 As a cancer patient, complications may arise which make you more likely to need imaging done. Whether you are on chemotherapy or radiotherapy, you should continue to attend your appointment as usual unless you have been contacted and told otherwise.
 
-However, active treatment for cancer - especially chemotherapy, as well as recent major surgeries can reduce the effectiveness of the immune system. Our lungs and blood flow around the body become weakened by the cancer treatment and surgeries. A weakened immune system can make you more susceptible to contracting Covid-19, and increase the likelihood of contracting a serious illness, such as pneumonia.
+However, active treatment for cancer - especially chemotherapy, as well as recent major surgeries can reduce the effectiveness of the immune system. Our lungs and blood flow around the body become weakened by the cancer treatment and surgeries. A weakened immune system can make you more susceptible to contracting COVID-19, and increase the likelihood of contracting a serious illness, such as pneumonia.
 
-Coronavirus-infected pneumonia can arise as a complication of Covid due to a weak immune system. If your Covid-19 infection does start to develop pneumonia you may start to notice symptoms such as a rapid heartbeat, shortness of breath, dizziness, or heavy sweating. Upon contracting pneumonia you may have to undergo a CT scan or a chest X-Ray to detect or confirm the presence. Read more about what to expect as a CT patient under the CT scan [here!]({{< ref "/docs/imaging/ct.md" >}})!
+Coronavirus-infected pneumonia can arise as a complication of COVID-19 due to a weak immune system. If your COVID-19 infection does start to develop pneumonia you may start to notice symptoms such as a rapid heartbeat, shortness of breath, dizziness, or heavy sweating. Upon contracting pneumonia you may have to undergo a CT scan or a chest X-Ray to detect or confirm the presence. Read more about what to expect as a CT patient under the CT scan [here!]({{< ref "/docs/imaging/ct.md" >}})!
 
 ## COVID-19 and Lung Cancer
 
