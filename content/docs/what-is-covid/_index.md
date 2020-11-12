@@ -15,7 +15,7 @@ author:
 type: book  # Do not modify.
 ---
 
-{{< figure library="true" src="covid-ball.jpg" title="[COVID-19](https://www.hsph.harvard.edu/news/features/coronavirus-wuhan-china-lipsitch/)" >}}
+{{< figure library="true" src="covid-ball.jpg" title="[COVID-19](https://www.hsph.harvard.edu/news/features/coronavirus-wuhan-china-lipsitch/)(Image taken from Harvard Chan School Website, Published 2020/01/28, Accessed 2020/11/08)" >}}
 
 COVID-19 is a highly infectious new strain of the family of Coronaviruses, which are usually respiratory tract infections. One of the unique features of COVID-19 is how differently it impacts each individual. Worldwide numbers of COVID-19 infected patients are well into the millions and changing rapidly. As such, the World Health Organization declared COVID-19 a pandemic on March 11, 2020. 
 
