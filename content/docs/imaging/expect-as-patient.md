@@ -39,7 +39,7 @@ For treatment of COVID-19, some patients stay in ICU for about 2 weeks and other
 
 During the hospital stay you will have many routine observations by nursing staff and healthcare assistants. Your blood pressure, heart rate, temperature and oxygen levels will be checked, how frequently this occurs depends on how serious your condition is. Blood tests will also be performed to help monitor the condition.
 
-The staff will be wearing personal equipment such as gloves, a mask and an apron to help stop the spread of infection. They will help you with self-care, cleaning and eating if you need assistance and your meals will be provided. 
+The staff will be wearing personal equipment such as gloves, a mask, and an apron to help stop the spread of infection. They will help you with self-care, cleaning and eating if you need assistance and your meals will be provided. 
 
 As part of routine ward rounds, doctors will visit daily. They will ask you simple questions and will examine you further if they need to and just check up on you and how you are holding up. 
 
