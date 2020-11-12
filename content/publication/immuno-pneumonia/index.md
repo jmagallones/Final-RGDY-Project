@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "MRI of pneumonia in immunocompromised patients: comparison with CT"
 authors:
-- 
-- 
-- 
--
--
+- Afra Ekinci
+- Tuba Yücel Uçarkuş
+- Aylin Okur
+- Mehmet Öztürk
+- Serap Doğan
 
 date: "2011-10-15T00:00:00Z"
 doi: "10.5152/dir.2016.16055"
