@@ -4,6 +4,8 @@ title: COVID-19 Basics (Harvard Medical School)
 summary: Essential information compiled by Harvard Medical School on COVID-19.
 draft: false
 featured: true
+authors:
+  - Nayab Gohar
 tags:
   - Research
   - Coronavirus
