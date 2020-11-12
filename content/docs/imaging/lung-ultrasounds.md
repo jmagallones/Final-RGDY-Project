@@ -12,7 +12,7 @@ CT may not always be the best mode of imaging a patient. We present a different 
 
 ## How Can Lung Ultrasounds be Used as an Alternative Modality for Detecting COVID-19?
 
-Lung ultrasounds can be used as an alternative modality for patients who are too critically ill to receive a CT scan to detect diseases such as COVID pneumonia and other complications. Although a CT Scan has been the gold standard in diagnosing lung infections, however, given the limitations of not being readily available and the intense radiation exposure, lung ultrasounds have been used widely in many countries in early detection of pneumonia. It also decreases the spread of cross infection as the imaging technique is available bedside for patients in intensive care units. 
+Lung ultrasounds can be used as an alternative modality for patients who are too critically ill to receive a CT scan to detect diseases such as COVID-19 pneumonia and other complications. Although a CT Scan has been the gold standard in diagnosing lung infections, however, given the limitations of not being readily available and the intense radiation exposure, lung ultrasounds have been used widely in many countries in early detection of pneumonia. It also decreases the spread of cross infection as the imaging technique is available bedside for patients in intensive care units. 
 
 SARS-CoV-2 related pneumonia is shown to involve periphery and subpleural lung areas which are better imaged by a lung ultrasound than the standard X-ray. Another advantage of a new lung ultrasound machine is its compatibility with smartphones and tablets which allows its results to be read remotely making it a great source for rural communities. 
 
