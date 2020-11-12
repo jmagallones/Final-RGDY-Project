@@ -8,7 +8,7 @@ author: "mayesha-choudhury"
 weight: 3
 ---
 
-For people with high blood pressure, they are at a greater risk of getting severely ill with COVID-19 as such a condition can lead to many more health complications including heart failure, stroke, dementia and heart attacks. Good management of blood pressure reduces the risk from COVID-19 and all other consequences of hypertension.
+For people with high blood pressure, they are at a greater risk of getting severely ill with COVID-19 as such a condition can lead to many more health complications including heart failure, stroke, dementia, and heart attacks. Good management of blood pressure reduces the risk from COVID-19 and all other consequences of hypertension.
 
 Conditions such as endocrine hypertension, a type of high blood pressure caused by an imbalance of hormones in the body, can use imaging modalities including computed tomography ([CT]({{< ref "/docs/imaging/ct.md" >}})) and [MRI]({{< ref "/docs/imaging/mri.md" >}}) in order to establish a firm diagnosis, as these disorders often originate in the pituitary gland and the adrenal gland. 
 
