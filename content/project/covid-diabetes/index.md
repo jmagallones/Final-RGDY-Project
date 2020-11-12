@@ -4,6 +4,8 @@ date: 2020-07-17T21:59:00.494Z
 summary: It is unclear if people with diabetes are at increased risk of getting COVID-19 (coronavirus), but if you get infected you are more at risk of serious complications.
 draft: false
 featured: true
+authors:
+  - Anna Fennell
 tags:
   - Research
   - Diabetes
