@@ -4,6 +4,8 @@ title: Cancer Ireland
 summary: A website dedicated to the compilation of research done on cancer and ways on how to support patients ill with it.
 draft: false
 featured: true
+authors:
+  - Eve Cotter 
 tags:
   - Research
   - Cancer
